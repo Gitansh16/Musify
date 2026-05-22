@@ -65,7 +65,7 @@ Ensure you have the following installed on your machine:
 
 **Authors**
 
-Kalpesh Bonde - Kalpeshbonde
+Gitansh Pise
 
 **Acknowledgments**
 
