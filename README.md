@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=MUSIFY&fontSize=35&fontAlignY=35&animation=fadeIn"/>
+
 # Musify: THE MUSIC WEBSITE
 
 **React Spotify - Musify**
